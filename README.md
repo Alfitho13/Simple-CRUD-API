@@ -1,6 +1,6 @@
 # Simple-CRUD-API 
 Simple CRUD API using Node.Js, Express, and Mysql as a database.
-# using the fastest validator as validation in filling in data that will be entered into the database, which if not filled in will produce an error or can be filled in optionally.
+using the fastest validator as validation in filling in data that will be entered into the database, which if not filled in will produce an error or can be filled in optionally.
 
 ![](header.png)
 
